@@ -34,9 +34,11 @@ Firewall Rules
 ![image](https://github.com/user-attachments/assets/f7fafb00-23d8-4f31-9614-e9c65b260c66)
 
 UFW Status and Rules
+
 ![image](https://github.com/user-attachments/assets/944208b9-f718-4874-b840-d2a6bf08771f)
 
 Testing the Firewall
+
 ![image](https://github.com/user-attachments/assets/f80a649e-607d-4ff6-abf0-63c3b6568d44)
 ![image](https://github.com/user-attachments/assets/2dc11ee9-3faa-410b-9335-161a5449bcce)
 
